@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Rêver
+    url: rever
+  - text: Explorer
+    url: explorer
+  - text: Partager
+    url: "#partager"
   - text: Blog
-    url: "/blog"
+    url: /blog
